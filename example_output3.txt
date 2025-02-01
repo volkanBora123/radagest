@@ -1,0 +1,69 @@
+  0  3  5  6  6
+  1  4  1  0  3 
+  2  3  3  3  2 
+     a  b  c  d 
+Add stone 1 / 10 to coordinate:
+  0  4  5  6  6 
+  1  4  1  0  3 
+  2  3  3  3  2 
+     a  b  c  d 
+---------------
+Add stone 2 / 10 to coordinate:
+  0  4  5  6  6 
+  1  5  1  0  3 
+  2  3  3  3  2 
+     a  b  c  d 
+---------------
+Add stone 3 / 10 to coordinate:
+  0  4  5  6  6 
+  1  5  1  0  3 
+  2  4  3  3  2 
+     a  b  c  d 
+---------------
+Add stone 4 / 10 to coordinate:
+  0  4  6  6  6 
+  1  5  1  0  3 
+  2  4  3  3  2 
+     a  b  c  d 
+---------------
+Add stone 5 / 10 to coordinate:
+  0  4  6  6  6 
+  1  5  2  0  3 
+  2  4  3  3  2 
+     a  b  c  d 
+---------------
+Add stone 6 / 10 to coordinate:
+  0  4  6  6  6 
+  1  5  2  0  3 
+  2  4  4  3  2 
+     a  b  c  d 
+---------------
+Add stone 7 / 10 to coordinate:
+  0  4  6  7  6 
+  1  5  2  0  3 
+  2  4  4  3  2 
+     a  b  c  d 
+---------------
+Add stone 8 / 10 to coordinate:
+  0  4  6  7  6 
+  1  5  2  0  3 
+  2  4  4  4  2 
+     a  b  c  d 
+---------------
+Add stone 9 / 10 to coordinate:
+  0  4  6  7  7 
+  1  5  2  0  3 
+  2  4  4  4  2 
+     a  b  c  d 
+---------------
+Add stone 10 / 10 to coordinate:
+  0  4  6  7  7 
+  1  5  2  0  4 
+  2  4  4  4  2 
+     a  b  c  d 
+---------------
+  0  4  6  7  7 
+  1  5  2  A  4 
+  2  4  4  4  2 
+     a  b  c  d 
+Final score: 1.41
